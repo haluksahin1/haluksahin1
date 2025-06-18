@@ -1,6 +1,7 @@
 ### Hi there 👋, Haluk Şahin
 👨‍💻 Haluk Şahin | C# & Backend Developer in Progress
 Gençay Yıldız ile C# ve Backend dünyasında kendimi geliştiriyorum.
+<br>
 🚀 Öğrenmeye açık, üretmeye hevesli.
 
 Skills: C# / HTML / CSS
