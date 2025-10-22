@@ -4,7 +4,7 @@ Gençay Yıldız ile C# ve Backend dünyasında kendimi geliştiriyorum.
 <br>
 🚀 Öğrenmeye açık, üretmeye hevesli.
 
-Skills: C# / HTML / CSS
+Skills: C# / HTML / CSS / MSSQL
 
 - 🌱 I’m currently learning C# 
 - 📫 How to reach me: haluksahin181@gmail.com 
